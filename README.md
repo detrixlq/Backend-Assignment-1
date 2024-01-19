@@ -9,7 +9,8 @@ Follow the instructions below to integrate the login and registration forms into
 ### Prerequisites
 
 - Ensure you have a web development environment set up.
-- Have Node.js installed.
+- Have Node.js and postgres installed.
+- Change the pg user and host information if needed.
 
 ### Installation
 
